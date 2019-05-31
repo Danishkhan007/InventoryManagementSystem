@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>733740355442-pk6ta0s1fa280vu5ie9kd4vm1f80lhvu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.733740355442-pk6ta0s1fa280vu5ie9kd4vm1f80lhvu</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDofe0FQYM1wSlgAx1R4qTOxXEuYiVXPhI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>733740355442</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.teamblue.Abhishek</string>
+	<key>PROJECT_ID</key>
+	<string>teamblue-2bc08</string>
+	<key>STORAGE_BUCKET</key>
+	<string>teamblue-2bc08.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:733740355442:ios:59a446aac9891dba</string>
+	<key>DATABASE_URL</key>
+	<string>https://teamblue-2bc08.firebaseio.com</string>
+</dict>
+</plist>
