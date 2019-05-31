@@ -1,13 +1,13 @@
 # InventoryManagementSystem FEATURE LIST:
 
-======================================================================
+*****
 iOS/Swift Project on inventory management system.
 Linking with firebase for authentication for user
 Linking with firebase for CRUD operation on inventory items
 Showing realtime graph for the inventory item by linking with firebase
 Converting graph data to PDF file
 Saving PDF file on local device.
-======================================================================
+*****
 
 - If you want any such project for you with more customization and features.
 You can connect via Skype, my skype id : mfsi_danishkhan or
